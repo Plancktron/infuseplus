@@ -6,7 +6,7 @@ on:
 
       ipa_url:
         description: "URL to the decrypted IPA file"
-        default: ""
+        default: "https://filebin.net/ixn2s2vjfrlxhf55/com.dvntm.infuseplus_2.6_iphoneos-arm64.deb"
         required: true
         type: string
 
